@@ -20,18 +20,12 @@ The PDF Merger Script is a Python utility that enables you to effortlessly merge
 ## Installation
 
 1. Clone this repository to your local machine:
-
    ```sh
    git clone https://github.com/deepz2609/pdf_merger.git
-
-
 2. Navigate to the cloned directory:
-
    ```sh
-    cd pdf_merger 
-
+   cd pdf_merger 
 3. Install the required libraries using pip:
-
     ```sh
     pip install PyPDF2 pyfiglet colorama
 
@@ -42,9 +36,9 @@ The PDF Merger Script is a Python utility that enables you to effortlessly merge
     ```sh
     python pdf_merger.py
 4. Follow the prompts to provide the necessary information:
-   -Enter the number of PDF files to merge.
-   -Enter the file paths/names for each PDF file.
-   -Enter the name of the final merged PDF file (including the ".pdf" extension).
+   - Enter the number of PDF files to merge.
+   - Enter the file paths/names for each PDF file.
+   - Enter the name of the final merged PDF file (including the ".pdf" extension).
 5. The script will merge the PDF files and create the final merged PDF.
 
 ## Example
